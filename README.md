@@ -1,10 +1,13 @@
 # Stack Package
 This Is My First Package For NodeJs .
 
-## install And Run Package
+## Installation
 
-`git clone 
+``` bash
+git clone 
 
 npm i 
 
-npm run test `
+npm run test
+```
+
