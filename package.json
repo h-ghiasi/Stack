@@ -1,0 +1,15 @@
+{
+  "name": "stack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "pixel",
+  "license": "ISC",
+  "dependencies": {
+    "pino": "^6.6.1",
+    "pino-pretty": "^4.2.1"
+  }
+}
