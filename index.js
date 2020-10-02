@@ -19,5 +19,10 @@ stack.prototype.pop = function() {
 stack.prototype.showarray = function() {
    return this.items[this.pointer]
 }
+stack.prototype.getarray = function(itemsinput) {
+    for(let i in itemsinput) {
+        this.push(itemsinput[i])
+    }
+}
 
 module.exports = stack
