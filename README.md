@@ -1,13 +1,16 @@
 # Stack Package
 This Is My First Package For NodeJs .
 
+---
+
 ## Installation
 
 ``` bash
-git clone 
+    git clone 
 
-npm i 
+    npm i 
 
-npm run test
+    npm run test
 ```
+> For Auto Installation You Can run **AutoRun.bat** in *Command Prompt* .
 
