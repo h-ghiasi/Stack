@@ -12,5 +12,5 @@ This Is My First Package For NodeJs .
 
     npm run test
 ```
-> For Auto Installation You Can run **AutoRun.bat** in *Command Prompt* .
+> For Auto Run test.js You Can run **run.bat** in *Command Prompt* .
 
