@@ -1,7 +1,7 @@
 {
-  "name": "stack_hossein-ghiasi",
+  "name": "@hghiasi/stack_hossein-ghiasi",
   "version": "1.1.1",
-  "description": "",
+  "description": "This Is My First Package For NodeJs .",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
@@ -9,7 +9,17 @@
   "author": "pixel",
   "license": "ISC",
   "dependencies": {
+    "np": "^6.5.0",
     "pino": "^6.6.1",
     "pino-pretty": "^4.2.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/h-ghiasi/Stack.git"
+  },
+  "bugs": {
+    "url": "https://github.com/h-ghiasi/Stack/issues"
+  },
+  "homepage": "https://github.com/h-ghiasi/Stack#readme"
 }
